@@ -14,6 +14,6 @@ Documentations: https://github.com/Joy1402/A-1Uniforms_Group01/tree/main/Documen
 
 
 
-Publish website:  https://joy1402.github.io/A-1Uniforms_Group01/
+Publish website:  https://joy1402.github.io/A-1Uniforms_Group01/Index.html
 
 Thank you for you visit our website.
